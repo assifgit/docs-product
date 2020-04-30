@@ -138,3 +138,8 @@ In case some constraint is not respected, OutSystems might not be able to genera
     ]
 }
 ```
+
+The various preferences options are as a  pairs of name/value attributes. Preference's name is case-insensitive. There are a set of certail preferences which are only for the specifc platform like Android/iOS & there's some preferences whihc are global as well.
+
+Apache Cordova list all the preferences option with platform specifc grouping: 
+https://cordova.apache.org/docs/en/latest/config_ref/#preference
